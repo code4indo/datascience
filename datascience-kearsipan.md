@@ -7,6 +7,7 @@ kelompok/group arsip akan diketahui berdasarkan pada jumlah kata yang muncul (ya
 
 clustering adalah cara yang efektif untuk mengolah arsip yang belum memiliki label / belum **memiliki klasifikasi** - cek lagi
 
-###Text Clustering
+### Text Clustering
+![text-clustering](https://github.com/code4indo/datascience/blob/main/docs/assets/text-clustering.png)
 
 
