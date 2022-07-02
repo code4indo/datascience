@@ -11,6 +11,9 @@ clustering adalah cara yang efektif untuk mengolah arsip yang belum memiliki lab
 
 bagaimana dengan kasus untuk dokumen yang belum memiliki label?
 
+### sample text 
+'C:\Users\jatni\anaconda3\pkgs\orange3-text-1.9.0-pyhd8ed1ab_0\site-packages\orangecontrib\text\datasets'
+
 
 ### Text Clustering
 ![text-clustering](https://github.com/code4indo/datascience/blob/main/docs/assets/text-clustering.png)
