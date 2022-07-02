@@ -7,7 +7,14 @@ kelompok/group arsip akan diketahui berdasarkan pada jumlah kata yang muncul (ya
 
 clustering adalah cara yang efektif untuk mengolah arsip yang belum memiliki label / belum **memiliki klasifikasi** - cek lagi
 
+**hierarchical clustering** dapat digunakan untuk mencari dokumen yang memiliki karakteristik yang sama 
+
+bagaimana dengan kasus untuk dokumen yang belum memiliki label?
+
+
 ### Text Clustering
 ![text-clustering](https://github.com/code4indo/datascience/blob/main/docs/assets/text-clustering.png)
+
+### Text Classification 
 
 
