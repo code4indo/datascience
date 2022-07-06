@@ -20,4 +20,4 @@ bagaimana dengan kasus untuk dokumen yang belum memiliki label?
 
 ### Text Classification 
 
-![text-classification](https://github.com/code4indo/datascience/blob/main/docs/assets/text-classification.png)
+![text-classification](https://github.com/code4indo/datascience/blob/main/docs/assets/text_classification.png)
